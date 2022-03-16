@@ -1,0 +1,36 @@
+/* common start */
+body{
+	font-family:'PT Sans', sans-serif;
+	font-size:16px;
+	font-weight:400;
+	color:#898989;
+}
+/* common end */
+/* header start */
+header{
+	background-color:#fcdb00;
+	padding:20px 0;
+}
+.c-nav{}
+.logo{}
+.menu{}
+.menu ul li a{
+	font-size:22px;
+	font-weight:700;
+	color:#010101 !important;
+	padding:0 30px !important;
+	
+}
+.menu ul li:last-child a{
+	padding-right:0 !important;
+}
+.menu ul li a:hover{
+	color:#FFFFFF !important;
+}
+/* header end */
+/* slider start */
+.slider{
+	padding-bottom: 30px;
+	background-color:#fcdb00;
+}
+/* slider start */
